@@ -1,0 +1,13 @@
+cat << 'EOF' > .gitignore
+*.o
+*.d
+*.asm
+*.sym
+fs.img
+kernel/kernel
+user/initcode
+user/initcode.out
+user/usys.S
+.gdbinit
+.DS_Store
+EOF

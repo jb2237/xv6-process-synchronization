@@ -1,4 +1,4 @@
-# CS301 – Operating Systems Lab
+# Operating Systems Lab
 
 ## Assignment 5: Process Synchronization in xv6-riscv
 
